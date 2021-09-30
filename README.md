@@ -4,11 +4,6 @@
 
 * 「IVS选音编辑器 https://toneoz.com/ime 」
 
-原始楷体字型来自两种中文教学时常用的免费商用授权字型：
-
-* 文鼎PL简中楷 - 《ARPHIC PUBLIC LICENSE version 1999》
-* 全字库正楷体 - 《Open Government Data License, version 1.0》
-
 此专案提供四套字型，满足中文现场教学的应用需求：
 
 * 拼音鼎楷-简
@@ -130,8 +125,12 @@ https://github.com/ButTaiwan/bpmfvs
 Initial release date : May 10, 2020
 
 ## Licence
+原始楷体字型来自两种中文教学时常用的免费商用授权字型：
 
-Free for both commercial and personal usage. 免費商用
+* 文鼎PL简中楷 - 《ARPHIC PUBLIC LICENSE version 1999》
+* 全字库正楷体 - 《Open Government Data License, version 1.0》
+
+Free for both commercial and personal usage.
 
 * ToneOZ-Pinyin-Kai-Simplified
 * ToneOZ-PinyinW-Kai-Simplified
