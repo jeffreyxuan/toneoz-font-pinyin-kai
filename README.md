@@ -27,11 +27,14 @@
 https://toneoz.com/blog/2021/09/08/wenkai-font/
 ![20210908-4](https://user-images.githubusercontent.com/14179988/135372875-55d94b30-2d0b-4211-b908-0edceb8066e6.jpg)
 
-拼音及非汉字的部分是基于「FONTWORKS Klee One」以及「LXGW 霞鹜文楷」，「表意文字变体多音字选择器」的概念来自But Ko的「注音IVS字型规格」。
+原始楷体字型来自两种中文教学时常用的免费商用授权字型：
+
+* 文鼎PL简中楷 -  [《ARPHIC PUBLIC LICENSE 1999》](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
+* 全字库正楷体 -  [《Open Government Data License, version 1.0》](https://data.gov.tw/en/licenses)
+
+拼音及非汉字的部分是基于「[FONTWORKS Klee One](https://github.com/fontworks-fonts/Klee)」以及「[LXGW 霞鹜文楷](https://github.com/lxgw/LxgwWenKai)」，「表意文字变体多音字选择器」的概念来自But Ko的「[注音IVS字型规格](https://github.com/ButTaiwan/bpmfvs)」。
 
 我们另外备有「拼音注音编辑器 https://toneoz.com 」，能够支持「汉语拼音正词法」、「拼音局部变色」、「任何字型配上拼音」等多种进阶功能。也是免费在线工具，欢迎使用。
-
-[![开源授权](https://img.shields.io/github/license/jeffreyxuan/toneoz-font-pinyin-wenkai)](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai)
 
 The Pinyin and none-Chinese characters are based on the font "Klee One" by Fontworks, and the font "LXGW WenKai" by LXGW for adding Simplified and Traditional Chinese character glyphs.
 
@@ -131,19 +134,19 @@ Initial release date : May 10, 2020
 ## Licence
 原始楷体字型来自两种中文教学时常用的免费商用授权字型：
 
-* 文鼎PL简中楷 - 《ARPHIC PUBLIC LICENSE version 1999》
-* 全字库正楷体 - 《Open Government Data License, version 1.0》
+* 文鼎PL简中楷 -  [《ARPHIC PUBLIC LICENSE 1999》](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
+* 全字库正楷体 -  [《Open Government Data License, version 1.0》](https://data.gov.tw/en/licenses)
 
 Free for both commercial and personal usage.
 
 * ToneOZ-Pinyin-Kai-Simplified
 * ToneOZ-PinyinW-Kai-Simplified
 
-These 2 fonts are licensed under 《ARPHIC PUBLIC LICENSE》（1999）
+These 2 fonts are licensed under [《ARPHIC PUBLIC LICENSE 1999》](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
 
 * ToneOZ-Pinyin-Kai-Traditional
 * ToneOZ-PinyinW-Kai-Traditional
 
-These 2 fonts are licensed under 《Open Government Data License, version 1.0》
+These 2 fonts are licensed under [《Open Government Data License, version 1.0》](https://data.gov.tw/en/licenses)
 
 
