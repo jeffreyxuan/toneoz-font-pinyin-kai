@@ -1,4 +1,4 @@
-# ToneOZ Pinyin Kai / 拼音鼎楷-简 拼音庫楷-繁 澳声通TrueType字型
+# ToneOZ Pinyin Kai 拼音鼎楷-简 / 拼音庫楷-繁 澳声通
 
 可选多音字的TrueType拼音字型，楷书。搭配「免费免安装」在线选音工具：
 
@@ -6,7 +6,7 @@
 
 原始楷体字型来自两种中文教学时常用的免费商用授权字型：
 
-* 文鼎PL简中楷 - 《ARPHIC PUBLIC LICENSE》（1999）
+* 文鼎PL简中楷 - 《ARPHIC PUBLIC LICENSE version 1999》
 * 全字库正楷体 - 《Open Government Data License, version 1.0》
 
 此专案提供四套字型，满足中文现场教学的应用需求：
