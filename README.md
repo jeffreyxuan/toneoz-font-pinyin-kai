@@ -1,38 +1,41 @@
-# ToneOZ Pinyin Kai / 拼音鼎楷-简 拼音庫楷-繁 澳声通TrueType字型
+# ToneOZ Pinyin Kai 拼音鼎楷－简 / 拼音庫楷－繁 / 澳声通
 
-可选多音字的TrueType拼音字型，楷书。搭配「免费免安装」在线选音工具：
+可选多音字的TrueType拼音字型，楷体。搭配「免费免安装」在线选音工具：
 
 * 「IVS选音编辑器 https://toneoz.com/ime 」
 
-原始楷体字型来自两种中文教学时常用的免费商用授权字型：
+提供四套可免费商用的字型，满足中文现场教学需求：
 
-* 文鼎PL简中楷 - 《ARPHIC PUBLIC LICENSE》（1999）
-* 全字库正楷体 - 《Open Government Data License, version 1.0》
+## 拼音鼎楷－简
+![20210930-2](https://user-images.githubusercontent.com/14179988/135372559-ca3744f3-5538-45cb-9788-c5f0814697e5.jpg)
 
-此专案提供四套字型，满足中文现场教学的应用需求：
-
-* 拼音鼎楷-简
-简体字教学使用。
-
-* 拼音庫楷-繁
-繁体字教学使用。
+## 拼音庫楷－繁
+![20210930-4](https://user-images.githubusercontent.com/14179988/135372572-0eea8513-da7e-4f49-bd16-d984dfd565ac.jpg)
 
 以上两种拼音大小适当不影响字距，适合文章阅读或试卷。
 
 另外两种拼音加大的版本，适合投影片或标题：
 
-* 大拼音鼎楷-简
-* 大拼音庫楷-繁
+## 大拼音鼎楷－简
+![20210930-3](https://user-images.githubusercontent.com/14179988/135372644-cf553962-cd1b-42cb-9e84-790d0ca05ca6.jpg)
 
-多音字的使用方式是：先在选音编辑器打字，此编辑器会在瞬间自动帮你选择正确拼音，也可手动校正。完成后再将整段纯文字（已内嵌拼音信息）复制贴上到 Office，能省下大量排版及破音字校正的时间。贴到Office后再将字型选成「澳声通拼音文楷」便可看到正确多音字的拼音。详细使用说明请参照：
+## 大拼音庫楷－繁
+![20210930-5](https://user-images.githubusercontent.com/14179988/135372652-3a69b966-3792-41bf-ae1d-a63e2ad1529e.jpg)
+
+## 使用說明
+多音字的使用方式是：先在[选音编辑器](https://toneoz.com/ime)打字，此编辑器会在瞬间自动帮你选择正确拼音，也可手动校正。完成后再将整段纯文字（已内嵌拼音信息）复制贴上到 Office，能省下大量排版及破音字校正的时间。贴到Office后再将字型选成「澳声通拼音」便可看到正确多音字的拼音。详细使用说明请参照：
 
 https://toneoz.com/blog/2021/09/08/wenkai-font/
+![20210908-4](https://user-images.githubusercontent.com/14179988/135372875-55d94b30-2d0b-4211-b908-0edceb8066e6.jpg)
 
-拼音及非汉字的部分是基于「FONTWORKS Klee One」以及「LXGW 霞鹜文楷」，「表意文字变体多音字选择器」的概念来自But Ko的「注音IVS字型规格」。
+原始楷体字型来自两种中文教学时常用的免费商用授权字型：
+
+* 文鼎PL简中楷 -  [《ARPHIC PUBLIC LICENSE 1999》](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
+* 全字庫正楷體 -  [《Open Government Data License, version 1.0》](https://data.gov.tw/en/licenses)
+
+拼音及非汉字的部分是基于「[FONTWORKS Klee One](https://github.com/fontworks-fonts/Klee)」以及「[LXGW 霞鹜文楷](https://github.com/lxgw/LxgwWenKai)」，「表意文字变体多音字选择器」的概念来自But Ko的「[注音IVS字型规格](https://github.com/ButTaiwan/bpmfvs)」。
 
 我们另外备有「拼音注音编辑器 https://toneoz.com 」，能够支持「汉语拼音正词法」、「拼音局部变色」、「任何字型配上拼音」等多种进阶功能。也是免费在线工具，欢迎使用。
-
-[![开源授权](https://img.shields.io/github/license/jeffreyxuan/toneoz-font-pinyin-wenkai)](https://github.com/jeffreyxuan/toneoz-font-pinyin-wenkai)
 
 The Pinyin and none-Chinese characters are based on the font "Klee One" by Fontworks, and the font "LXGW WenKai" by LXGW for adding Simplified and Traditional Chinese character glyphs.
 
@@ -130,17 +133,21 @@ https://github.com/ButTaiwan/bpmfvs
 Initial release date : May 10, 2020
 
 ## Licence
+原始楷体字型来自两种中文教学时常用的免费商用授权字型：
 
-Free for both commercial and personal usage. 免費商用
+* 文鼎PL简中楷 -  [《ARPHIC PUBLIC LICENSE 1999》](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
+* 全字庫正楷體 -  [《Open Government Data License, version 1.0》](https://data.gov.tw/en/licenses)
+
+Free for both commercial and personal usage.
 
 * ToneOZ-Pinyin-Kai-Simplified
 * ToneOZ-PinyinW-Kai-Simplified
 
-These 2 fonts are licensed under 《ARPHIC PUBLIC LICENSE》（1999）
+These 2 fonts are licensed under [《ARPHIC PUBLIC LICENSE 1999》](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
 
 * ToneOZ-Pinyin-Kai-Traditional
 * ToneOZ-PinyinW-Kai-Traditional
 
-These 2 fonts are licensed under 《Open Government Data License, version 1.0》
+These 2 fonts are licensed under [《Open Government Data License, version 1.0》](https://data.gov.tw/en/licenses)
 
 
