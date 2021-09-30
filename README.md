@@ -1,4 +1,4 @@
-# ToneOZ Pinyin Kai 拼音鼎楷-简 / 拼音庫楷-繁 澳声通
+# ToneOZ Pinyin Kai 拼音鼎楷－简 / 拼音庫楷－繁 澳声通
 
 可选多音字的TrueType拼音字型，楷书。搭配「免费免安装」在线选音工具：
 
