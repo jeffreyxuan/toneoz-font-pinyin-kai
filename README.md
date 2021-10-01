@@ -7,20 +7,21 @@
 提供四套可免费商用的字型，满足中文现场教学需求：
 
 ## 拼音鼎楷－简
-![20210930-2](https://user-images.githubusercontent.com/14179988/135372559-ca3744f3-5538-45cb-9788-c5f0814697e5.jpg)
+![20211001-1](https://user-images.githubusercontent.com/14179988/135523747-7ef9183d-856b-41b7-8532-545bb46db810.jpg)
 
 ## 拼音庫楷－繁
-![20210930-4](https://user-images.githubusercontent.com/14179988/135372572-0eea8513-da7e-4f49-bd16-d984dfd565ac.jpg)
+![20211001-3](https://user-images.githubusercontent.com/14179988/135523783-568a53c6-6f89-42cf-8d0d-b4e71a57e4ec.jpg)
 
 以上两种拼音大小适当不影响字距，适合文章阅读或试卷。
 
-另外两种拼音加大的版本，适合投影片或标题：
+另外两种拼音加大的版本，适合投影片或标题。每个字的拼音宽度不同，最短的只有一个字母，最长的字「装zhuāng」有6个字母，大拼音字型的拼音此时可能会重叠，使用者可利用字距或者加入空白来调整。
 
 ## 大拼音鼎楷－简
-![20210930-3](https://user-images.githubusercontent.com/14179988/135372644-cf553962-cd1b-42cb-9e84-790d0ca05ca6.jpg)
+![20211001-2](https://user-images.githubusercontent.com/14179988/135523806-07396f1e-4d48-4164-92d2-db29361178f6.jpg)
 
 ## 大拼音庫楷－繁
-![20210930-5](https://user-images.githubusercontent.com/14179988/135372652-3a69b966-3792-41bf-ae1d-a63e2ad1529e.jpg)
+![20211001-4](https://user-images.githubusercontent.com/14179988/135523835-d0064a14-ad33-4d6f-bbb1-fff1b7f99dce.jpg)
+
 
 ## 使用說明
 多音字的使用方式是：先在[选音编辑器](https://toneoz.com/ime)打字，此编辑器会在瞬间自动帮你选择正确拼音，也可手动校正。完成后再将整段纯文字（已内嵌拼音信息）复制贴上到 Office，能省下大量排版及破音字校正的时间。贴到Office后再将字型选成「澳声通拼音」便可看到正确多音字的拼音。详细使用说明请参照：
