@@ -139,6 +139,8 @@ Initial release date : May 10, 2020
 * 文鼎PL简中楷 -  [《ARPHIC PUBLIC LICENSE 1999》](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
 * 全字庫正楷體 -  [《Open Government Data License, version 1.0》](https://data.gov.tw/en/licenses)
 
+拼音及非汉字的部分是基于「[FONTWORKS Klee One](https://github.com/fontworks-fonts/Klee)」以及「[LXGW 霞鹜文楷](https://github.com/lxgw/LxgwWenKai)」，「表意文字变体多音字选择器」的概念来自But Ko的「[注音IVS字型规格](https://github.com/ButTaiwan/bpmfvs)」。
+
 Free for both commercial and personal usage.
 
 * ToneOZ-Pinyin-Kai-Simplified
