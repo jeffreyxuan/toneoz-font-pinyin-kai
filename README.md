@@ -139,18 +139,20 @@ Initial release date : May 10, 2020
 * 文鼎PL简中楷 -  [《ARPHIC PUBLIC LICENSE 1999》](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
 * 全字庫正楷體 -  [《Open Government Data License, version 1.0》](https://data.gov.tw/en/licenses)
 
-拼音及非汉字的部分是基于「[FONTWORKS Klee One](https://github.com/fontworks-fonts/Klee)」以及「[LXGW 霞鹜文楷](https://github.com/lxgw/LxgwWenKai)」，「表意文字变体多音字选择器」的概念来自But Ko的「[注音IVS字型规格](https://github.com/ButTaiwan/bpmfvs)」。
+拼音及非汉字的部分是基于「[FONTWORKS Klee One](https://github.com/fontworks-fonts/Klee)」以及「[LXGW 霞鹜文楷](https://github.com/lxgw/LxgwWenKai)」，采用 SIL Open Font License 1.1 免费商用授权。「表意文字变体多音字选择器」的概念来自But Ko的「[注音IVS字型规格](https://github.com/ButTaiwan/bpmfvs)」。
 
 Free for both commercial and personal usage.
 
 * ToneOZ-Pinyin-Kai-Simplified
 * ToneOZ-PinyinW-Kai-Simplified
 
-These 2 fonts are licensed under [《ARPHIC PUBLIC LICENSE 1999》](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
+These 2 fonts are based on 文鼎PL简中楷, licensed under [《ARPHIC PUBLIC LICENSE 1999》](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
 
 * ToneOZ-Pinyin-Kai-Traditional
 * ToneOZ-PinyinW-Kai-Traditional
 
-These 2 fonts are licensed under [《Open Government Data License, version 1.0》](https://data.gov.tw/en/licenses)
+These 2 fonts are based on 全字庫, licensed under [《Open Government Data License, version 1.0》](https://data.gov.tw/en/licenses)
+
+Pinyin and none Chinese characters are based on [FONTWORKS Klee One](https://github.com/fontworks-fonts/Klee), licensed under SIL Open Font License 1.1
 
 
