@@ -34,7 +34,7 @@ https://toneoz.com/blog/2021/09/08/wenkai-font/
 * 文鼎PL简中楷 -  [《ARPHIC PUBLIC LICENSE 1999》](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
 * 全字庫正楷體 -  [《Open Government Data License, version 1.0》](https://data.gov.tw/en/licenses)
 
-拼音及非汉字的部分是基于「[FONTWORKS Klee One](https://github.com/fontworks-fonts/Klee)」以及「[LXGW 霞鹜文楷](https://github.com/lxgw/LxgwWenKai)」，「表意文字变体多音字选择器」的概念来自But Ko的「[注音IVS字型规格](https://github.com/ButTaiwan/bpmfvs)」。
+拼音及非汉字的部分是基于「[FONTWORKS Klee One](https://github.com/fontworks-fonts/Klee)」以及「[LXGW 霞鹜文楷](https://github.com/lxgw/LxgwWenKai)」，「表意文字变体多音字选择器」的概念来自 But Ko 的「[注音IVS字型规格](https://github.com/ButTaiwan/bpmfvs)」并感谢 But Ko 指导拼音声调符号改进。
 
 我们另外备有「拼音注音编辑器 https://toneoz.com 」，能够支持「汉语拼音正词法」、「拼音局部变色」、「任何字型配上拼音」等多种进阶功能。也是免费在线工具，欢迎使用。
 
