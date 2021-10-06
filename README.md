@@ -27,7 +27,7 @@
 多音字的使用方式是：先在[选音编辑器](https://toneoz.com/ime)打字，此编辑器会在瞬间自动帮你选择正确拼音，也可手动校正。完成后再将整段纯文字（已内嵌拼音信息）复制贴上到 Office，能省下大量排版及破音字校正的时间。贴到Office后再将字型选成「澳声通拼音」便可看到正确多音字的拼音。详细使用说明请参照：
 
 https://toneoz.com/blog/2021/09/08/wenkai-font/
-![20210908-4](https://user-images.githubusercontent.com/14179988/135372875-55d94b30-2d0b-4211-b908-0edceb8066e6.jpg)
+![20211006-5](https://user-images.githubusercontent.com/14179988/136199239-10649215-9516-4bf1-b1ba-9d2e039f9e21.jpg)
 
 原始楷体字型来自两种中文教学时常用的免费商用授权字型：
 
