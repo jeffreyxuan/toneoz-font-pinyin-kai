@@ -23,7 +23,7 @@
 ![20211001-4](https://user-images.githubusercontent.com/14179988/135523835-d0064a14-ad33-4d6f-bbb1-fff1b7f99dce.jpg)
 
 
-## 使用說明
+## 使用说明
 多音字的使用方式是：先在[选音编辑器](https://toneoz.com/ime)打字，此编辑器会在瞬间自动帮你选择正确拼音，也可手动校正。完成后再将整段纯文字（已内嵌拼音信息）复制贴上到 Office，能省下大量排版及破音字校正的时间。贴到Office后再将字型选成「澳声通拼音」便可看到正确多音字的拼音。详细使用说明请参照：
 
 https://toneoz.com/blog/2021/10/07/kai-font/
